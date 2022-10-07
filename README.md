@@ -2,23 +2,19 @@
 Team Contract for the Toad Suck Homeless Coalition App Developers
 
 Team Member Name:
-1.
-2.
-3.
-4.
-5.
+1. Ryan Fuller
+2. Ted Bjurlin
+3. Isaac Khounborine
+4. Gaëlle Agahozo
+5. Ketsia Dusenge
 
   A.  Team Structure:
 1. **Unanimous Voting Procedure**
 
   B.  Team Procedures:
-1. Method for setting and following meeting agendas (Who will set each agenda? When? How will
-team members be notified/reminded? Who will be responsible for the team following the agenda
-during a team meeting?): **Using Teams, agendas will be determined on a rotating basis with each member both writing the agenda and being responsible for keeping the meeting on task on their turn.**
-2. Method of record keeping (Who will be responsible for recording and disseminating minutes?  How
-and when will the minutes be disseminated? Where will all agendas and minutes be stored?): **Rotate as well, one ahead of the Agenda Writer.**
-3. Procedures in the absence of a team member:  (will the team meet with one member absent, or must
-all members be present?): **In general, we will avoid making drastic decisions when a member is missing, but meetings will still occur at the scheduled time as long as at least two members are available.**
+1. Using Teams, agendas will be determined on a rotating basis with each member both writing the agenda and being responsible for keeping the meeting on task on their turn.
+2. Rotate as well, one ahead of the Agenda Writer.
+3. In general, we will avoid making drastic decisions when a member is missing, but meetings will still occur at the scheduled time as long as at least two members are available.
 
   C.  Team Participation:
 1. Strategies to ensure cooperation and equal distribution of tasks: **We will decide distribution via Consensus.**
@@ -39,9 +35,9 @@ all members be present?): **In general, we will avoid making drastic decisions w
 2. You have agreed to abide by these terms and conditions of this contract;
 3. You understand that you will be subject to the consequences specified above and may be subject to reduction in overall course grade in the event that you do not fulfill the terms of this contract.
 
-- Printed name:
-Signature:
-Date:
+- Printed name: Ryan Fuller
+Signature: Ryan Fuller
+Date: 10/07/2022
 Paragraph:
 
 - Printed name:
