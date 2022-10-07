@@ -55,10 +55,10 @@ Signature:
 Date:
 Paragraph:
 
-- Printed name:
-Signature:
-Date:
-Paragraph:
+- printed name:Ketsia Dusenge
+Signature: Ketsia Dusenge
+Date:10/07/2022
+Paragraph: I will be a Graphical user interface designer. I will be making sure that the screens and the indivisual elements that the client wants to have on the app, are all displayed. I will be making sure that all parts are displayed and are integrated and working as intended. In case there are any conflicts, I am willing to talk with my teammate and make sure we come to a unanimous aggreement before moving foward.
 
 G.  Acceptance of contract by faculty: This contract does not take effect until it is accepted by the supervising faculty of senior design as evidenced by their signatures below:
 
