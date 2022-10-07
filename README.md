@@ -38,7 +38,7 @@ Team Member Name:
 - Printed name: Ryan Fuller
 Signature: Ryan Fuller
 Date: 10/07/2022
-Paragraph: For this project, I will be the task manager. My responsibilities include ensuring each team member gets their work done on time, or, if necessary, adjusting the schedule to accommodate for deadline disparities. Additionally, Isaac and I are going to organize the beta tests together as part of an agreed partnership for this role. I hereby wholly understand and accept the terms of this contract.
+Paragraph: For this project, I will be the task manager. My responsibilities include ensuring each team member gets their work done on time, adjusting the schedule to accommodate for deadline disparities if necessary, and assigning tasks to each team member. Additionally, Isaac and I are going to organize the beta tests together as part of an agreed partnership for this role. I hereby wholly understand and accept the terms of this contract.
 
 - Printed name: Ted Bjurlin
 Signature: Ted Bjurlin
