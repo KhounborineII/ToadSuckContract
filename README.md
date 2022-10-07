@@ -40,10 +40,10 @@ Signature: Ryan Fuller
 Date: 10/07/2022
 Paragraph: For this project, I will be the task manager. My responsibilities include ensuring each team member gets their work done on time, or, if necessary, adjusting the schedule to accommodate for deadline disparities. Additionally, Isaac and I are going to organize the beta tests together as part of an agreed partnership for this role. I hereby wholly understand and accept the terms of this contract.
 
-- Printed name:
-Signature:
-Date:
-Paragraph:
+- Printed name: Ted Bjurlin
+Signature: Ted Bjurlin
+Date: 10/07/2022
+Paragraph: My role in our team is the Integration Tester. In adition to my role in writing and developing the code, I will be responisble for overseeing integration testing for our project. This will include reviewing any integration and widget tests written by my team members, as well as building an integration testing suite for our project as modules and widgets are completed.
 
 - Printed name: Isaac Khounborine
 Signature: Isaac Khounborine
