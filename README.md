@@ -45,10 +45,10 @@ Signature:
 Date:
 Paragraph:
 
-- Printed name:
-Signature:
-Date:
-Paragraph:  
+- Printed name: Isaac Khounborine
+Signature: Isaac Khounborine
+Date: 10/07/2022
+Paragraph: I will be fulfilling the role of Unit Tester. While we should all be writing unit testing our individual parts, I will cover for any parts of our collective code that has not been tested fully. I will also work with Ryan to organize Beta Testing when the time comes. Since there are five members and six roles that are required, we have decided to split Beta Test organizer between two people. This will allow us to have one person working on the beta test of the earlier version of our app and another with the later version of our app. Given our larger group, I can also ensure we will be able to meet all together as much as possible. 
 
 - Printed name:
 Signature:
