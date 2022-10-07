@@ -1,8 +1,6 @@
 # ToadSuckContract
 Team Contract for the Toad Suck Homeless Coalition App Developers
 
-Project Team Name:  
-
 Team Member Name:
 1.
 2.
