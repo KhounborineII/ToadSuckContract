@@ -8,6 +8,7 @@ Team Member Name:
 2.
 3.
 4.
+5.
 
   A.  Team Structure:
 1. **Unanimous Voting Procedure**
@@ -40,33 +41,33 @@ all members be present?): **In general, we will avoid making drastic decisions w
 2. You have agreed to abide by these terms and conditions of this contract;
 3. You understand that you will be subject to the consequences specified above and may be subject to reduction in overall course grade in the event that you do not fulfill the terms of this contract.
 
-Printed name:
+- Printed name:
 Signature:
 Date:
 Paragraph:
 
-Printed name:
+- Printed name:
 Signature:
 Date:
 Paragraph:
 
-Printed name:
+- Printed name:
 Signature:
 Date:
 Paragraph:  
 
-Printed name:
+- Printed name:
 Signature:
 Date:
 Paragraph:
 
-Printed name:
+- Printed name:
 Signature:
 Date:
 Paragraph:
 
 G.  Acceptance of contract by faculty: This contract does not take effect until it is accepted by the supervising faculty of senior design as evidenced by their signatures below:
 
-Printed name:
+- Printed name:
 Signature:
 Date:
