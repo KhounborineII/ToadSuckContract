@@ -55,10 +55,10 @@ Signature:
 Date:
 Paragraph:
 
-- printed name:Ketsia Dusenge
-Signature: Ketsia Dusenge
-Date:10/07/2022
-Paragraph: I will be a Graphical user interface designer. I will be making sure that the screens and the indivisual elements that the client wants to have on the app, are all displayed. I will be making sure that all parts are displayed and are integrated and working as intended. In case there are any conflicts, I am willing to talk with my teammate and make sure we come to a unanimous aggreement before moving foward.
+- Printed name: Gaëlle Agahozo
+Signature:Gaëlle Agahozo
+Date: 10/07/2022
+Paragraph: My task is to be a client interfacer, so I will ensure that we are communicating with our client through our product design process. I sent the first email to the five organizations we are working with, which is intended for us to get as much as information on the app our clients need. After this very first meeting, I will ensure that our first prototype is up to the expectation of our client. I will also communicate with our clients to schedule our second meeting after building the first prototype, so we can get feedback from them on what we should add or change. As encouraged by the professor, my group members and I plan to visit the the sites in order to experience what they do. 
 
 G.  Acceptance of contract by faculty: This contract does not take effect until it is accepted by the supervising faculty of senior design as evidenced by their signatures below:
 
